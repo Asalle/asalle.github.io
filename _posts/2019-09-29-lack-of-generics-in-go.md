@@ -95,5 +95,5 @@ func DeleteBananas(bananaID string) {
 }
 {% endhighlight %}
 
-Does it work? Yes! Is it a good practice/idea? You tell me! @JimboTheJam1
+Does it work? Yes! Is it a good practice/idea? You tell me!
 

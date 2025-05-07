@@ -46,6 +46,6 @@ I guess they are there to make you motivated?.. (Don't break the chain!..) Anywa
 
 Alright, now my agenda will bully me into following my habits every day! One pity is that in spacemacs+evil you cannot use K to toggle habits in agenda view,  I have to invoke the command by clicking `M-x org-habit-toggle-habits`. Also it is likely not supported by [Orgzly](https://github.com/orgzly/orgzly-android) - an outliner that is semi-equal to org-mode on my phone.  
 
-What habits do you want to form? What do you want to get rid of? What are your ways to track habits? Letme on know via [@Jimbothejam1](https://twitter.com/Jimbothejam1).
+What habits do you want to form? What do you want to get rid of? What are your ways to track habits? Letme on know via email.
 
 P.S. I hightly recommend James' newsletter - it really delivers what it promises.
